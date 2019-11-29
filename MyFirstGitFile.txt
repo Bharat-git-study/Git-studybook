@@ -1,3 +1,5 @@
 Learning never stops
 
 Added this new line to the file
+
+Added this seconf line to the file
