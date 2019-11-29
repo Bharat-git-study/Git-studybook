@@ -4,6 +4,8 @@ Added this new line to the file
 
 Added this second line to the file
 
+	Added this second and half line in between
+
 Added this thrid line to the file
 
 Added this fourth line to the file
