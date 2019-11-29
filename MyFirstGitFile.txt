@@ -4,7 +4,7 @@ Added this new line to the file
 
 Added this second line to the file
 
-	Added this second and half line in between
+	Added this second and half line in between to the file
 
 Added this thrid line to the file
 
